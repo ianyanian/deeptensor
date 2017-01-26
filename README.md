@@ -8,4 +8,4 @@ cnn.py = Convolutional Neural Network
 
 cnndropout.py = Convolutional Neural Network with Dropouts
 
-cnntflearn.py = Convolutional Neural Network with Dropout using TFLearn library
+cnntflearn.py = Convolutional Neural Network with Dropouts using TFLearn library
