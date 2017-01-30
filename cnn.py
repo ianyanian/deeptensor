@@ -5,8 +5,10 @@ sess = tf.Session(config=tf.ConfigProto(gpu_options=gpu_options))
 
 mnist = input_data.read_data_sets("/tmp/data/", one_hot=True)
 
-
+#number of classes
 n_classes = 10
+
+#batch size
 batch_size = 128
 
 # height x width
